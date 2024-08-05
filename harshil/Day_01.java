@@ -1,8 +1,6 @@
 // Q-link: https://www.codechef.com/problems/MEBA
 
 import java.util.*;
-import java.lang.*;
-import java.io.*;
 
 
 /*If there is more than one unique element in the array (m.size() > 1) and there is more than one unique non-zero element (c > 1), it is impossible to make all elements equal using the given operation.
